@@ -1,5 +1,7 @@
 WebStorm color scheme
 =====================
+![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg)
+
 + theme based on [Darcula theme](https://draculatheme.com/)  
 + color scheme similar to [Webpack official website](https://webpack.js.org/)
 
@@ -37,6 +39,10 @@ Installation
 + Go to File -> Import Settings
 + Choose colorScheme.jar
 + Restart WebStorm
+
+LICENSE
+=======
+This project is under the MIT license. See the [LICENSE](LICENSE) file for the full license text.
 
 
 
